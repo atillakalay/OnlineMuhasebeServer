@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineMuhasebeServer.Domain/1.0.0": {
+        "runtime": {
+          "OnlineMuhasebeServer.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineMuhasebeServer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

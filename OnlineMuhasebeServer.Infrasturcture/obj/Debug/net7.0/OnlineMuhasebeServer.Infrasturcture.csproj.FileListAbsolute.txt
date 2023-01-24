@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.deps.json
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\bin\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\refint\OnlineMuhasebeServer.Infrasturcture.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\OnlineMuhasebeServer.Infrasturcture.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Infrasturcture\obj\Debug\net7.0\ref\OnlineMuhasebeServer.Infrasturcture.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OnlineMuhasebeServer.WebApi.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net7.0\OnlineMuhasebeServer.Application.deps.json
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net7.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net7.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\refint\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net7.0\ref\OnlineMuhasebeServer.Application.dll

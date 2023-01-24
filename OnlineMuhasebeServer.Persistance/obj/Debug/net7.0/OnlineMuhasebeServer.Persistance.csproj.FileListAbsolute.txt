@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Persistance.deps.json
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Persistance.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Persistance.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\refint\OnlineMuhasebeServer.Persistance.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\ref\OnlineMuhasebeServer.Persistance.dll
