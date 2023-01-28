@@ -10,3 +10,8 @@ C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentat
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net7.0\refint\OnlineMuhasebeServer.Presentation.dll
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net7.0\OnlineMuhasebeServer.Presentation.pdb
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net7.0\ref\OnlineMuhasebeServer.Presentation.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\bin\Debug\net7.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\bin\Debug\net7.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net7.0\OnlineMuhasebeServer.Presentation.csproj.CopyComplete
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\bin\Debug\net7.0\OnlineMuhasebeServer.Domain.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\bin\Debug\net7.0\OnlineMuhasebeServer.Domain.pdb

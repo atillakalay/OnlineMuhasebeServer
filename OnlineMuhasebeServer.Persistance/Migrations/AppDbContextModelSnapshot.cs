@@ -139,6 +139,9 @@ namespace OnlineMuhasebeServer.Persistance.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("DatabaseName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
@@ -148,7 +151,16 @@ namespace OnlineMuhasebeServer.Persistance.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Password")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Server")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ServerName")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TaxDepartment")
@@ -156,6 +168,9 @@ namespace OnlineMuhasebeServer.Persistance.Migrations
 
                     b.Property<DateTime?>("UpdateDate")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

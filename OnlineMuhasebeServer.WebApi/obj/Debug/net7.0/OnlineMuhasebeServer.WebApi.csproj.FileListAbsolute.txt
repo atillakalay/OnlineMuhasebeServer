@@ -86,3 +86,10 @@ C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bi
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\OnlineMuhasebeServer.Persistance.dll
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\OnlineMuhasebeServer.Persistance.pdb
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\OnlineMuhasebeServer.Domain.pdb
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\bin\Debug\net7.0\OnlineMuhasebeServer.Application.pdb

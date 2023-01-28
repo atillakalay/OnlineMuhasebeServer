@@ -15,3 +15,5 @@ C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistan
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Domain.pdb
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.csproj.CopyComplete
 C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net7.0\OnlineMuhasebeServer.Persistance.genruntimeconfig.cache
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Atilla\source\repos\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\bin\Debug\net7.0\OnlineMuhasebeServer.Application.pdb
